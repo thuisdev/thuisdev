@@ -34,15 +34,7 @@ A full-stack portfolio and blog platform with JWT authentication, role-based acc
 
 ---
 
-### 🤖 SubnetSales AI *(In Development)*
-An AI agent platform for Bittensor Subnet Owners. The core agent **Arbos** generates complete sales packs — CTO/CFO pitches, ROI analysis, objection handling & follow-up sequences.
-
-- **Stack**: Python · Node.js · Express · PostgreSQL · Telegram API · Taostats API
-- **Status**: Demo v1.3 in active development
-
----
-
-### 📝 MoodDo — Mood-Based Todo App
+### 📝 Mood-Based Todo App
 A todo app that adapts to your current mood. Built with vanilla JavaScript, localStorage persistence and a component-based structure.
 
 - **Stack**: HTML · CSS · JavaScript
