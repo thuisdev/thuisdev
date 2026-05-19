@@ -78,9 +78,9 @@ Full CRUD REST API with MongoDB and PostgreSQL implementations. Includes relatio
 ## Let's Connect! 🤝
 
 - 📧 **Email**: adrian.thuis04@gmail.com
-- 🐦 **X**: [thuisontao](https://x.com/thuisontao)
+- 🐦 **X**: [thuisontao](https://x.com/thuisdev)
 - 💼 **LinkedIn**: [Adrian T.](https://linkedin.com/in/adrian-t-3b64172a4)
-- 🐙 **GitHub**: [github.com/thuisontao](https://github.com/thuisontao)
+- 🐙 **GitHub**: [github.com/thuisontao](https://github.com/thuisdev)
 
 ---
 
