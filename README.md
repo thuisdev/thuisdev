@@ -25,12 +25,13 @@ I come with real Web3 context — I've worked hands-on with token launches, toke
 
 ## Featured Projects 🚀
 
-### 🌐 Portfolio & Blog Platform *(Shipped)*
-A full-stack portfolio and blog platform with JWT authentication, role-based access control, and a comprehensive testing suite (71 tests across backend, frontend, and E2E).
+### 🌐 Portfolio & Blog Platform *(Live)*
+A production-deployed full-stack portfolio and blog platform with JWT authentication, role-based access control, and a comprehensive testing suite (71 tests across backend, frontend, and E2E).
 
 - **Stack**: React · TypeScript · Node.js · Express · PostgreSQL · TailwindCSS · Jest · Selenium
-- **Features**: Admin Dashboard, Blog CRUD, JWT Auth, EmailJS Contact Form
-- **Repo**: [module-10](https://github.com/thuisdev/fullstack-fsd25-adrian)
+- **Features**: Admin Dashboard · Blog CRUD · JWT Auth · EmailJS Contact Form
+- **Deployed**: [adrianthuis.dev](https://adrianthuis.dev) — AWS EC2 · Nginx · PM2 · Let's Encrypt SSL
+- **Repo**: [portfolio](https://github.com/thuisdev/portfolio)
 
 ---
 
@@ -58,6 +59,8 @@ A todo app that adapts to your current mood. Built with vanilla JavaScript, loca
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ### ⚡ Up Next
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
@@ -78,12 +81,25 @@ I believe in writing tests — not just to ship features, but to understand them
 
 ---
 
+## Deployment Experience 🚀
+
+I don't just build — I ship. My portfolio is live on a production AWS infrastructure:
+
+- **AWS EC2** — Ubuntu server provisioned from scratch
+- **Nginx** — Reverse proxy + static file serving
+- **PM2** — Process management with auto-restart on boot
+- **Let's Encrypt** — SSL/HTTPS via Certbot
+- **Porkbun** — Custom domain DNS configuration
+
+---
+
 ## Let's Connect! 🤝
 
+- 🌐 **Portfolio**: [adrianthuis.dev](https://adrianthuis.dev)
 - 📧 **Email**: adrian.thuis04@gmail.com
-- 🐦 **X**: [thuisontao](https://x.com/thuisdev)
+- 🐦 **X**: [thuisdev](https://x.com/thuisdev)
 - 💼 **LinkedIn**: [Adrian T.](https://linkedin.com/in/adrian-t-3b64172a4)
-- 🐙 **GitHub**: [github.com/thuisontao](https://github.com/thuisdev)
+- 🐙 **GitHub**: [github.com/thuisdev](https://github.com/thuisdev)
 
 ---
 
