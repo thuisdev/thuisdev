@@ -1,9 +1,8 @@
 # Hey, I'm Adrian 👋
-
-**Full-Stack Developer | Stepping into Web3**
+**Full-Stack Developer → Smart Contract Engineer**
 
 ![Building](https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack_&_Web3-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Solidity_&_Web3-blue?style=for-the-badge)
 ![Connect](https://img.shields.io/badge/Open_To-Connect-orange?style=for-the-badge)
 
 ---
@@ -12,12 +11,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/OiPwPNu-zokAAAAC/btc-bitcoin.gif">
 
-Hi, I'm **Adrian**. I'm building toward becoming a **Smart Contract Engineer & dApp Developer**.
+Hi, I'm **Adrian**. I've completed my full-stack foundation and I'm now specializing in **Solidity and smart contract development** on the path to becoming a Smart Contract Engineer & dApp Developer.
 
-I come with real Web3 context — I've worked hands-on with token launches, tokenomics concepts, and the Bittensor/TAO ecosystem before I ever wrote a line of code. Now I'm adding the technical skills to match.
+I come with real Web3 context — I've worked hands-on with token launches, tokenomics concepts, and the Bittensor/TAO ecosystem before I ever wrote a line of code. Now I'm adding the technical depth to match.
 
-- 🎓 **Currently**: Full-Stack Web Dev Bootcamp @ Metana
-- 🔜 **Next**: Advanced Solidity & Web3 Bootcamp @ Metana
+- ✅ **Completed**: Full-Stack Web Development
+- 🎓 **Currently**: Solidity & Advanced Web3 Development
 - 🎯 **Goal**: Smart Contract Engineer · dApp Developer · Smart Contract Auditor
 - ₿ **Interested in**: DeFi, Bittensor/TAO, tokenomics, on-chain systems
 
@@ -46,6 +45,7 @@ A todo app that adapts to your current mood. Built with vanilla JavaScript, loca
 ## Skills & Tools 🛠️
 
 ### ✅ Comfortable With
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,7 +62,8 @@ A todo app that adapts to your current mood. Built with vanilla JavaScript, loca
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### ⚡ Up Next
+### ⚡ Currently Learning
+
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logoColor=black)
@@ -83,7 +84,7 @@ I believe in writing tests — not just to ship features, but to understand them
 
 ## Deployment Experience 🚀
 
-I don't just build — I ship. My portfolio is live on a production AWS infrastructure:
+I don't just build — I ship. My portfolio is live on production AWS infrastructure:
 
 - **AWS EC2** — Ubuntu server provisioned from scratch
 - **Nginx** — Reverse proxy + static file serving
@@ -104,7 +105,5 @@ I don't just build — I ship. My portfolio is live on a production AWS infrastr
 ---
 
 <div align="center">
-
 *From bar to blockchain. Building every day. The best is coming.*
-
 </div>
